@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=500&color=00C2FF&center=true&vCenter=true&width=400&lines=Syifara" alt="SYIFARA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=500&color=F9BFFF&center=true&vCenter=true&width=400&lines=SYIFARA" alt="SYIFARA" />
 
 </div>
 
