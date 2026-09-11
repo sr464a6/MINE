@@ -1,4 +1,10 @@
-# Syifara — Mobile App Developer Portfolio
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=500&color=00C2FF&center=true&vCenter=true&width=400&lines=Syifara" alt="Syifara" />
+
+</div>
+
+# Mobile App Developer Portfolio
 
 A dark, single-page portfolio built with plain HTML, CSS, and JavaScript — no framework, no build step.
 
@@ -6,23 +12,23 @@ A dark, single-page portfolio built with plain HTML, CSS, and JavaScript — no 
 
 ## Features
 
-- **Hero** — full-bleed intro with a link straight to LinkedIn
-- **Running skills marquee** — an infinite scrolling strip of the tech stack
-- **Projects** — a spinning clock-face layout with a glowing WhatsApp button at the center and six project links placed around the ring like hour marks
-- **Skills** — two rows of rounded tiles auto-scrolling in opposite directions
-- **Background music** — autoplays on load (falls back to starting on first click/scroll if the browser blocks autoplay), no visible toggle
-- Fully responsive down to mobile, with the clock and marquees adapting to smaller screens
+* **Hero** — full-bleed intro with a link straight to LinkedIn
+* **Running skills marquee** — an infinite scrolling strip of the tech stack
+* **Projects** — a spinning clock-face layout with a glowing WhatsApp button at the center and six project links placed around the ring like hour marks
+* **Skills** — two rows of rounded tiles auto-scrolling in opposite directions
+* **Background music** — autoplays on load (falls back to starting on first click/scroll if the browser blocks autoplay), no visible toggle
+* Fully responsive down to mobile, with the clock and marquees adapting to smaller screens
 
 ## Tech Stack
 
-- HTML5
-- CSS3 (custom properties, `conic-gradient`, `repeating-conic-gradient`, CSS animations — no framework)
-- Vanilla JavaScript (no dependencies)
-- Google Fonts: Geist, Geist Mono, Instrument Serif
+* HTML5
+* CSS3 (custom properties, `conic-gradient`, `repeating-conic-gradient`, CSS animations — no framework)
+* Vanilla JavaScript (no dependencies)
+* Google Fonts: Geist, Geist Mono, Instrument Serif
 
 ## File Structure
 
-```
+```text
 .
 ├── index.html     # Page markup
 ├── style.css       # All styling
@@ -49,11 +55,11 @@ You can also just double-click `index.html` to open it directly, though some bro
 
 ## Customizing
 
-- **WhatsApp number** — update the `wa.me` links in `index.html` (currently a placeholder: `6281234567890`)
-- **Email** — update any `mailto:` links
-- **Projects** — edit the `.clock-mark` links inside `<section id="projects">`
-- **Skills** — edit the `.flow-chip` items inside `<section id="skills">`
-- **Colors** — all controlled via CSS custom properties at the top of `style.css` (`:root`)
+* **WhatsApp number** — update the `wa.me` links in `index.html` (currently a placeholder: `6281234567890`)
+* **Email** — update any `mailto:` links
+* **Projects** — edit the `.clock-mark` links inside `<section id="projects">`
+* **Skills** — edit the `.flow-chip` items inside `<section id="skills">`
+* **Colors** — all controlled via CSS custom properties at the top of `style.css` (`:root`)
 
 ## Credits
 
